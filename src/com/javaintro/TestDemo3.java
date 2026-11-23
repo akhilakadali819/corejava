@@ -6,11 +6,10 @@ public class TestDemo3 {
 		 x++;
 	 }
 	public static void main(String[] args) {
-		TestDemo3 a = new TestDemo3();
-		TestDemo3 b = new TestDemo3();
-		TestDemo3 c = new TestDemo3();
-		//void main() {
-	     System.out.println(a.x);
+		 new TestDemo3();
+		 new TestDemo3();
+		 new TestDemo3();
+	     System.out.println(x);
 			
 		}
 }

@@ -20,9 +20,9 @@ public class TestDemo5 {
 
 	public static void main(String[] args) {
 		TestDemo5 t = new TestDemo5();
-	t.demo1();
-	t.demo1();
-	t.dog();
+		demo1();
+	    demo1();
+	    t.dog();
 	t.cat();
 	
 	
